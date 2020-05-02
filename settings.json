@@ -8,5 +8,6 @@
     "explorer.autoReveal": false,
     "files.trimTrailingWhitespace": true,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false
 }
