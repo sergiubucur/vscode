@@ -1,13 +1,11 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.fontSize": 18,
-    "editor.insertSpaces": false,
-    "editor.minimap.enabled": false,
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "explorer.autoReveal": false,
-    "files.trimTrailingWhitespace": true,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-    "breadcrumbs.enabled": false,
-    "explorer.compactFolders": false
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 18,
+  "editor.minimap.enabled": false,
+  "explorer.autoReveal": false,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "breadcrumbs.enabled": false,
+  "explorer.compactFolders": false,
+  "editor.tabSize": 2,
+  "files.eol": "\n"
 }
